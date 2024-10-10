@@ -1,1 +1,1 @@
-# clinical-trial-functional-apps
+# clinical-module-functional-apps
